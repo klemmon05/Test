@@ -214,11 +214,11 @@ export default function SettingsPage() {
             <h2 className="font-semibold mb-2">About OrbitWatch</h2>
             <p className="text-sm text-white/50 leading-relaxed">
               OrbitWatch is a real-time satellite tracking application using
-              SGP4 propagation from CelesTrak TLE data. Built with Next.js 14,
+              SGP4 propagation from CelesTrak TLE data. Built with Next.js 15,
               satellite.js, and MapLibre GL.
             </p>
             <div className="mt-3 flex gap-2">
-              <Badge variant="outline">Next.js 14</Badge>
+              <Badge variant="outline">Next.js 15</Badge>
               <Badge variant="outline">satellite.js</Badge>
               <Badge variant="outline">MapLibre GL</Badge>
               <Badge variant="outline">Zustand</Badge>
